@@ -1,3 +1,11 @@
+# Descrição
+O projeto é feito em React e usa a API do GitHub para encontrar um usuário.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
